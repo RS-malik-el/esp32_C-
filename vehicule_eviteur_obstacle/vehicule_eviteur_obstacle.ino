@@ -12,7 +12,7 @@
  * Le projet utilise plusieurs composants, notamment :
  * - Une carte ESP32 ou Arduino : Cette carte est le cœur du système et sert de plateforme de développement.
  * - 4 LEDs : Les LEDs sont utilisées pour fournir des indications visuelles.
- * - 2 capteurs d'obstacle : Ces capteurs sont utilisés pour détecter les obstacles dans l'environnement du véhicule. 
+ * - 2 capteurs d'obstacle (IR): Ces capteurs sont utilisés pour détecter les obstacles dans l'environnement du véhicule. 
  * - 2 motoreducteurs : Les moteurs sont responsables du mouvement du véhicule. 
  * - Un driver moteur : Le driver moteur permet de contrôler la vitesse et la direction des moteurs.
  * 
