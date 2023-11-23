@@ -4,7 +4,7 @@
  * gitHub : https://github.com/RS-malik-el
  * Donation : paypal.me/RachelSysteme
  *
- * @AUTHEUR : RACHEL SYSTEME
+ * @AUTEUR : Exaucé KIMBEMBE / OpenProgramming
  * DATE : 15/11/2022
  * 
  * * @Board : esp32
@@ -25,7 +25,7 @@ BluetoothSerial bluetooth;
 #define PIN_RELAIS 23
 
 void setup() {
-  bluetooth.begin("RS_ESP32"); //Nom du bluetooth
+  bluetooth.begin("OP_ESP32"); //Nom du bluetooth
   pinMode(PIN_RELAIS,OUTPUT); 
 }
 
