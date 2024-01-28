@@ -2,9 +2,8 @@
  * 
  * e-mail : rachelsysteme@gmail.com
  * gitHub : https://github.com/RS-malik-el
- * Donation : paypal.me/RachelSysteme
  *
- * @AUTHEUR : RACHEL SYSTEME
+ * @AUTEUR : Exaucé KIMBEMBE / OpenProgramming
  * DATE : 30/10/2022
  * 
  * * @Board : esp32
