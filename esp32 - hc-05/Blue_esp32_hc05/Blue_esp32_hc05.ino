@@ -4,7 +4,7 @@
  * gitHub : https://github.com/RS-malik-el
  * Donation : paypal.me/RachelSysteme
  *
- * @AUTHEUR : RACHEL SYSTEME
+ * @AUTEUR : Exaucé KIMBEMBE / OpenProgramming
  * DATE : 07/12/2022
  * 
  * @Board : esp32
